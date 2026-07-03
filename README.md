@@ -29,7 +29,7 @@
 
 ### 🧬 Sobre Mim / About Me
 
-Olá! Sou o **William Araújo**, desenvolvedor backend e engenheiro de software focado em construir soluções robustas, escaláveis e com alto padrão de performance. Minha paixão é criar arquiteturas limpas de microsserviços e APIs que proporcionem a melhor experiência de desenvolvimento (**DX**). 
+Olá! Sou o **William Araújo**, desenvolvedor backend e engenheiro de software focado em construir soluções robustas, escaláveis e com alto padrão de performance. Minha paixão é criar arquiteturas limpas de microsserviços e APIs que proporcionem a melhor experiência de desenvolvimento. 
 
 - ⚙️ **Especialidades:** Arquitetura de APIs RESTful, microsserviços e padrões de projeto robustos.
 - 🐧 **Ecossistema:** Experiência prática em ambiente Linux, automação de tarefas e scripts em Bash/Shell.
